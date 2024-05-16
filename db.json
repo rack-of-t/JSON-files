@@ -63,14 +63,16 @@
       "title": "Get Cat a Hat",
       "start": "2024-05-16 21:00",
       "finish": "2024-05-16 22:00",
-      "location": "SE9 1WQ"
+      "location": "Lock & Co. Hatters, 6 St James's St, St. James's, London SW1A 1EF",
+      "notes": "This cat really needs a hat"
     },
     {
       "id": 2,
       "title": "Get Dog a Log",
       "start": "2024-05-16 22:00",
       "finish": "2024-05-16 23:00",
-      "location": "SE9 1WQ"
+      "location": "London Log Burners, 130 Glenarm Rd, Lower Clapton, London E5 0NB",
+      "notes": "This dog really needs a Log"
     }
   ]
 }
