@@ -1,5 +1,11 @@
-{"messages": [
-  {"id": 1,"message": "Hello World"},
-  {"id": 2,"message": "Hello World again"}
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
