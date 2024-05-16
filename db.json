@@ -56,5 +56,21 @@
       "id": 2,
       "title": "Top 20 Eurovision songs \nABBA – Waterloo 🇸🇪\nLoreen – Euphoria 🇸🇪 \nMåns Zelmerlöw – Heroes 🇸🇪 \nAlexander Rybak – Fairytale 🇳🇴 \nDuncan Laurence – Arcade 🇳🇱 \nMahmood – Soldi 🇮🇹 \nLena – Satellite 🇩🇪 \nConchita Wurst – Rise Like a Phoenix 🇦🇹 \nJohnny Logan – Hold Me Now 🇮🇪 \nLordi – Hard Rock Hallelujah 🇫🇮 \nEleni Foureira – Fuego 🇨🇾 \nKatrina and the Waves – Love Shine a Light 🇬🇧 \nCéline Dion – Ne partez pas sans moi 🇨🇭 \nNicole – Ein bißchen Frieden 🇩🇪 \nIl Volo – Grande amore 🇮🇹 \nSalvador Sobral – Amar pelos dois 🇵🇹 \nJohnny Logan – What’s Another Year 🇮🇪 \nThe Common Linnets – Calm After the Storm 🇳🇱 \nOlsen Brothers – Fly on the Wings of Love 🇩🇰 \nBrotherhood of Man – Save Your Kisses for Me 🇬🇧"
     }
+  ],
+  "Calendar": [
+    {
+      "id": 1,
+      "title": "Get Cat a Hat",
+      "start": "2024-05-16 21:00",
+      "finish": "2024-05-16 22:00",
+      "location": "SE9 1WQ"
+    },
+    {
+      "id": 2,
+      "title": "Get Dog a Log",
+      "start": "2024-05-16 22:00",
+      "finish": "2024-05-16 23:00",
+      "location": "SE9 1WQ"
+    }
   ]
 }
